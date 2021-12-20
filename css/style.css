@@ -1,0 +1,30 @@
+
+
+div {
+  margin-bottom: 20px;
+}
+
+input {
+  float: right;
+}
+
+.clear {
+  float: right;
+}
+
+h1, h3 {
+  text-align : center;
+}
+.center {
+  width: 450px;
+  padding: 10px;
+  margin: auto;
+  }
+.table {
+  width: 900px;
+}
+
+.error {
+  font-size: 80%;
+  color: red;
+}
