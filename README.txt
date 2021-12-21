@@ -1,3 +1,5 @@
+Run in docker container:
+
 1) build docker image:
 docker build -t member-club .
 
